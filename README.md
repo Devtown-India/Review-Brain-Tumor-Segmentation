@@ -24,7 +24,7 @@ For this project I used UNet model and Res-UNet(Resblocks with UNet) where we wi
 
 
 
-###Steps to run the project:
+### Steps to run the project:
 
 
 1.Install the dataset from kaggle or use Kaggle notebooks or used Colab using api key from Kaggle for getting the dataset from kaggle.
